@@ -10,7 +10,7 @@ public class MyMavenServlet extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        System.out.println("maven ...  doget1221");
+        System.out.println("maven ...  doget12213333");
     }
 
     @Override
